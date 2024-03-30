@@ -244,7 +244,7 @@ export default {
 			${url.origin}/sub?host=[your host]&uuid=[your uuid]&path=[your path]
 			
 			
-			${host.toLowerCase().includes('notls')}
+			${host.toLowerCase()}
 			
 			
 			
@@ -267,7 +267,7 @@ export default {
 			${url.origin}/sub?host=[your host]&uuid=[your uuid]&path=[your path]
 			
 			
-			${host.toLowerCase().includes('notls')}
+			${host.toLowerCase()}
 			
 			
 			
